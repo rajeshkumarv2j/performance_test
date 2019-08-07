@@ -755,7 +755,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">C:\TaurusTestReports\EproStageJmeter\Active_Threads_Over_Time.csv</stringProp>
+          <stringProp name="filename">Active_Threads_Over_Time.csv</stringProp>
           <longProp name="interval_grouping">500</longProp>
           <boolProp name="graph_aggregated">false</boolProp>
           <stringProp name="include_sample_labels"></stringProp>
@@ -800,7 +800,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">C:\TaurusTestReports\EproStageJmeter\ResponseTimesOverTime.csv</stringProp>
+          <stringProp name="filename">ResponseTimesOverTime.csv</stringProp>
           <longProp name="interval_grouping">500</longProp>
           <boolProp name="graph_aggregated">false</boolProp>
           <stringProp name="include_sample_labels"></stringProp>
@@ -845,7 +845,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">C:\TaurusTestReports\EproStageJmeter\TransactionsPerSecond.csv</stringProp>
+          <stringProp name="filename">TransactionsPerSecond.csv</stringProp>
           <longProp name="interval_grouping">1000</longProp>
           <boolProp name="graph_aggregated">false</boolProp>
           <stringProp name="include_sample_labels"></stringProp>
@@ -890,7 +890,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">C:\TaurusTestReports\EproStageJmeter\ResponseTimeGraph.csv</stringProp>
+          <stringProp name="filename">ResponseTimeGraph.csv</stringProp>
         </ResultCollector>
         <hashTree/>
         <ResultCollector guiclass="StatGraphVisualizer" testclass="ResultCollector" testname="Aggregate Graph" enabled="true">
@@ -927,7 +927,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">C:\TaurusTestReports\EproStageJmeter\AggregateGraph.csv</stringProp>
+          <stringProp name="filename">AggregateGraph.csv</stringProp>
         </ResultCollector>
         <hashTree/>
       </hashTree>
