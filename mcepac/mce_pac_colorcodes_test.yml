@@ -1,6 +1,6 @@
 execution:
 - iterations: 0
-  concurrency: 5
+  concurrency: 2
   hold-for: 5m
   ramp-up: 2m
   scenario: mce_pac_color_code_test
