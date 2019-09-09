@@ -13,6 +13,7 @@ scenarios:
 reporting:
 - module: final-stats
   dump-xml: stats.xml
+  dump-csv: stats.csv
 - module: passfail
   criteria:
   - "avg-rt>150ms for 10s, continue as failed"
